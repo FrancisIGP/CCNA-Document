@@ -3,7 +3,7 @@
 **Status:** Work-in-Progress (WIP) 
 
 ## Document Background
-My personal Document for CCNA; can be utilized as an open source. Document file is located above at the file section. <br/><br/>
+My personal Document for CCNA; can be utilized as an open source. Document file is located above at the file section. <br/>
 
 This guide offers you multiple strategies you can use to master Computer Networking. Computer networking is a broad topic because it encompasses many areas. This can be overwhelming for new students, and hence to help guide students through their learning journey, this book is designed. Our work will give you a thorough understanding of the latest in network technology and design. 
 
