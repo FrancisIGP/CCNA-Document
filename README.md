@@ -1,5 +1,4 @@
 # CCNA Document
-![Paint-Net](https://user-images.githubusercontent.com/75497349/107624525-fe75ec00-6c95-11eb-9a1a-0fe6eafbcf3f.PNG) <br/>
 **Status:** Work-in-Progress (WIP) 
 
 ## Document Background
