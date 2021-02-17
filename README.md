@@ -1,3 +1,4 @@
+## Version 0.1 (Updated 02/17/2021)
 # CCNA Document 
 **Status:** Work-in-Progress (WIP) <br/>
 
@@ -55,9 +56,6 @@ CHAPTER 2 (TCP/IP Model)	16
 ```   
   <br/>
 </details>
-
-### Version 0.1 (Updated 02/17/2021)
-Document is unfinished (Version number will be incremented if there are updates)
 
 ### Ways to support me:
 - Star the project
