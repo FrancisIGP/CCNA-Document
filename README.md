@@ -53,5 +53,7 @@ CHAPTER 2 (TCP/IP Model)	16
   <br/>
 </details>
 
+**Download here:** https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf
+
 ## Document Overview
 ![Capture1111](https://user-images.githubusercontent.com/75497349/107882638-7e65b580-6f25-11eb-9e01-d001220275af.JPG)
