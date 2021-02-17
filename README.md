@@ -1,6 +1,6 @@
+### Version 0.1 (Updated 02/17/2021)
 ## CCNA Document 
 **Status:** Work-in-Progress (WIP) 
-### Version 0.1 (Updated 02/17/2021)
 
 ## Document Background
 This guide offers you in-depth explanation and multiple strategies you can use to master Computer Networking. Computer networking is a broad topic because it encompasses many areas. This can be overwhelming for new students, and hence to help guide students through their learning journey, this book is designed. Our work will give you a thorough understanding of the latest in network technology and design. 
