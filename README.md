@@ -6,9 +6,9 @@
 - Chapter 2 (TCP/IP Model)
 
 ## Document Background
-My personal Document for CCNA; can be utilized as an open source. Document file is located above at the file section. Kindly support my document by giving it start, also the document is not yet done so I might update the repository soon!<br/>
+My personal Document for CCNA; can be utilized as an open source. Document file is located above at the file section. 
 
-This guide offers you multiple strategies you can use to master Computer Networking. Computer networking is a broad topic because it encompasses many areas. This can be overwhelming for new students, and hence to help guide students through their learning journey, this book is designed. Our work will give you a thorough understanding of the latest in network technology and design. 
+This guide offers you in-depth explanation and multiple strategies you can use to master Computer Networking. Computer networking is a broad topic because it encompasses many areas. This can be overwhelming for new students, and hence to help guide students through their learning journey, this book is designed. Our work will give you a thorough understanding of the latest in network technology and design. 
 
 Following the guide will help you understand the basics of computer networks, how local and global networks interact, and how to better the ones we already have. This guide will cover the fundamentals and concepts associated with Networking for your Networking 201-301 certification exam. This book will help you get started with your CCNA and prepare you for the certification exam. 
 
