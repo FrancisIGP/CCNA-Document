@@ -1,13 +1,5 @@
-## Read me
+## Version 0.1 (Updated 02/17/2021)
 
-### Ways to support me:
-- Star the project
-- Follow my Github page
-- Make an issue request if there are concerns
-
-### Notes
-- Document is unfinished (Version number will be incremented if there are updates)
-### Version 0.1 (Updated 02/17/2021)
 # CCNA Document 
 **Status:** Work-in-Progress (WIP) <br/>
 
@@ -23,6 +15,15 @@ This guide offers you in-depth explanation and multiple strategies you can use t
 Following the guide will help you understand the basics of computer networks, how local and global networks interact, and how to better the ones we already have. This guide will cover the fundamentals and concepts associated with Networking for your Networking 201-301 certification exam. This book will help you get started with your CCNA and prepare you for the certification exam. 
 
 [Download here](https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf) <br/>
+
+## Read me
+### Ways to support me:
+- Star the project
+- Follow my Github page
+- Make an issue request if there are concerns
+
+### Notes
+- Document is unfinished (Version number will be incremented if there are updates)
 
 ### How to download:
 ![Capture](https://user-images.githubusercontent.com/75497349/108148191-4750f900-710b-11eb-8cf2-35d453064392.JPG)
