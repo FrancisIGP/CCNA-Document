@@ -1,5 +1,3 @@
-## Version 0.1 (Updated 02/17/2021)
-
 ## Read me
 
 ### Ways to support me:
@@ -9,6 +7,7 @@
 
 ### Notes
 - Document is unfinished (Version number will be incremented if there are updates)
+### Version 0.1 (Updated 02/17/2021)
 # CCNA Document 
 **Status:** Work-in-Progress (WIP) <br/>
 
