@@ -3,7 +3,7 @@
 **Status:** Work-in-Progress (WIP) 
 
 ## Document Background
-This guide offers you in-depth explanation and multiple strategies you can use to master Computer Networking. Computer networking is a broad topic because it encompasses many areas. This can be overwhelming for new students, and hence to help guide students through their learning journey, this book is designed. Our work will give you a thorough understanding of the latest in network technology and design. 
+This document offers you in-depth explanation and multiple strategies you can use to master Computer Networking. Computer networking is a broad topic because it encompasses many areas. This can be overwhelming for new students, and hence to help guide students through their learning journey, this book is designed. Our work will give you a thorough understanding of the latest in network technology and design. 
 
 Following the guide will help you understand the basics of computer networks, how local and global networks interact, and how to better the ones we already have. This guide will cover the fundamentals and concepts associated with Networking for your Networking 201-301 certification exam. This book will help you get started with your CCNA and prepare you for the certification exam. 
 
@@ -53,11 +53,16 @@ CHAPTER 2 (TCP/IP Model)	16
   <br/>
 </details>
 
-## Ways to support me
-- Star the project
-- Follow my Github page
-- Make an issue request if there are any concerns 
-- Feedbacks are helpful! <br/>
+<details>
+  <summary>Support me</summary>
+  <br/>
+  
+1) Give my project a star
+2) Follow my Github page
+3) Provide feedbacks or concerns via (Issue request)
+
+  <br/>
+</details>
 
 ## How to Download
 
