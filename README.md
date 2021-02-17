@@ -1,5 +1,5 @@
 # CCNA Document 
-**Status:** Work-in-Progress (WIP) 
+**Status:** Work-in-Progress (WIP) <br/>
 **Notes:** Please support my repository by giving it a star, thanks a lot!
 
 ## Document Background
