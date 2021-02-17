@@ -61,7 +61,6 @@ CHAPTER 2 (TCP/IP Model)	16
 2) Follow my Github page
 3) Provide feedbacks or concerns via (Issue request)
 
-  <br/>
 </details>
 
 ## How to Download
