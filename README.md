@@ -1,5 +1,6 @@
 # CCNA Document 
 **Status:** Work-in-Progress (WIP) <br/>
+- Chapters 1-2 (available)
 
 ## Document Background
 My personal Document for CCNA; can be utilized as an open source. Document file is located above at the file section. Kindly support my document by giving it start, also the document is not yet done so I might update the repository soon!<br/>
