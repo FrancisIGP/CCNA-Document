@@ -18,12 +18,15 @@ Following the guide will help you understand the basics of computer networks, ho
 ### Ways to support me:
 - Star the project
 - Follow my Github page
-- Make an issue request if there are concerns <br/>
+- Make an issue request if there are any concerns 
+- Feedbacks are helpful! <br/>
 
-[Download here](https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf) <br/>
+## Download here
 
 ### How to download:
 ![Capture](https://user-images.githubusercontent.com/75497349/108148191-4750f900-710b-11eb-8cf2-35d453064392.JPG)
+
+[Download here](https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf) <br/>
 
 <details>
   <summary>Current Contents/Topics</summary>
