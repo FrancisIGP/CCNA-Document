@@ -1,6 +1,6 @@
-## Version 0.1 (Updated 02/17/2021)
 # CCNA Document 
 **Status:** Work-in-Progress (WIP) <br/>
+### Version 0.1 (Updated 02/17/2021)
 
 **Current Progress:**
 - Chapter 1 (Network Foundation)
