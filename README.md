@@ -1,5 +1,5 @@
-# CCNA Document 
-**Status:** Work-in-Progress (WIP) <br/>
+## CCNA Document 
+**Status:** Work-in-Progress (WIP) 
 ### Version 0.1 (Updated 02/17/2021)
 
 ## Document Background
