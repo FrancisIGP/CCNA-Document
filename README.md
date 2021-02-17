@@ -8,7 +8,7 @@ Following the guide will help you understand the basics of computer networks, ho
 
 ### Extra Information
 <details>
-  <summary>Table of Contents (WIP)</summary>
+  <summary>Table of Contents (Incomplete)</summary>
   <br/>
   
 ```
