@@ -21,9 +21,7 @@ Following the guide will help you understand the basics of computer networks, ho
 - Make an issue request if there are any concerns 
 - Feedbacks are helpful! <br/>
 
-## Download here
-
-### How to download:
+## How to Download
 
 ### Step 1:
 ### [Download document here](https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf) <br/>
