@@ -49,7 +49,6 @@ CHAPTER 2 (TCP/IP Model)	16
                Physical Layer Summary	37
           Chapter Summary	37
 ```   
-  <br/>
 </details>
 
 ### Support me
