@@ -1,11 +1,12 @@
-## Version 0.1 (Updated 02/17/2021)
-
 # CCNA Document 
 **Status:** Work-in-Progress (WIP) <br/>
 
 **Current Progress:**
 - Chapter 1 (Network Foundation)
-- Chapter 2 (TCP/IP Model)
+- Chapter 2 (TCP/IP Model) <br/>
+
+### Version 0.1 (Updated 02/17/2021)
+Document is unfinished (Version number will be incremented if there are updates)
 
 ## Document Background
 My personal Document for CCNA; can be utilized as an open source. Document file is located above at the file section. 
@@ -21,9 +22,6 @@ Following the guide will help you understand the basics of computer networks, ho
 - Star the project
 - Follow my Github page
 - Make an issue request if there are concerns
-
-### Notes
-- Document is unfinished (Version number will be incremented if there are updates)
 
 ### How to download:
 ![Capture](https://user-images.githubusercontent.com/75497349/108148191-4750f900-710b-11eb-8cf2-35d453064392.JPG)
