@@ -1,5 +1,6 @@
-# CCNA Document
+# CCNA Document 
 **Status:** Work-in-Progress (WIP) 
+**Notes:** Please support my repository by giving it a star, thanks a lot!
 
 ## Document Background
 My personal Document for CCNA; can be utilized as an open source. Document file is located above at the file section. <br/>
