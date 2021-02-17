@@ -71,5 +71,4 @@ CHAPTER 2 (TCP/IP Model)	16
 ![Capture](https://user-images.githubusercontent.com/75497349/108149656-4cfc0e00-710e-11eb-80f2-ad5286f6d25c.JPG)
 
 ## Document Overview
-### Cover:
 ![Capture1111](https://user-images.githubusercontent.com/75497349/107882638-7e65b580-6f25-11eb-9e01-d001220275af.JPG)
