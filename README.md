@@ -1,5 +1,5 @@
 # CCNA Document 
-**Status:** Work-in-Progress (WIP) <br/><br/>
+**Status:** Work-in-Progress (WIP) <br/>
 
 **Current Progress:**
 - Chapters 1-2
