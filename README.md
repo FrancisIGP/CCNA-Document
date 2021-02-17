@@ -7,7 +7,7 @@ Following the guide will help you understand the basics of computer networks, ho
 
 **Project status:** Work-in-Progress (WIP) 
 
-### Extra Information
+### Document Overview
 <details>
   <summary>Table of Contents (Incomplete)</summary>
   <br/>
@@ -64,8 +64,5 @@ CHAPTER 2 (TCP/IP Model)	16
 ### [Download link (Click me)](https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf) <br/>
 ### Step 2:
 ![Capture](https://user-images.githubusercontent.com/75497349/108149656-4cfc0e00-710e-11eb-80f2-ad5286f6d25c.JPG)
-
-## Document Overview
-![Capture1111](https://user-images.githubusercontent.com/75497349/107882638-7e65b580-6f25-11eb-9e01-d001220275af.JPG) <br/>
 
 ### [Go back to main page](https://github.com/FrancisIGP)
