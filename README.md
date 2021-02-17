@@ -1,4 +1,5 @@
-### Version 0.1 (Updated 02/17/2021)
+## Version 0.1 (Updated 02/17/2021)
+### Be mindful of the version for updates!
 
 # CCNA Document 
 **Status:** Work-in-Progress (WIP) <br/>
