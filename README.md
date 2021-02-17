@@ -8,6 +8,8 @@ This guide offers you multiple strategies you can use to master Computer Network
 
 Following the guide will help you understand the basics of computer networks, how local and global networks interact, and how to better the ones we already have. This guide will cover the fundamentals and concepts associated with Networking for your Networking 201-301 certification exam. This book will help you get started with your CCNA and prepare you for the certification exam.
 
+**Download here:** https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf
+
 <details>
   <summary>Current Contents/Topics</summary>
   <br/>
@@ -52,8 +54,6 @@ CHAPTER 2 (TCP/IP Model)	16
 ```   
   <br/>
 </details>
-
-**Download here:** https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf
 
 ## Document Overview
 ![Capture1111](https://user-images.githubusercontent.com/75497349/107882638-7e65b580-6f25-11eb-9e01-d001220275af.JPG)
