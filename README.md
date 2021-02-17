@@ -68,4 +68,4 @@ CHAPTER 2 (TCP/IP Model)	16
 ## Document Overview
 ![Capture1111](https://user-images.githubusercontent.com/75497349/107882638-7e65b580-6f25-11eb-9e01-d001220275af.JPG) <br/>
 
-[Go back to main page](https://github.com/FrancisIGP)
+### [Go back to main page](https://github.com/FrancisIGP)
