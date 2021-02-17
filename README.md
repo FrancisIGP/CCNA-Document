@@ -57,7 +57,7 @@ CHAPTER 2 (TCP/IP Model)	16
   <br/>
 </details>
 
-### Ways to support me:
+## Ways to support me
 - Star the project
 - Follow my Github page
 - Make an issue request if there are any concerns 
