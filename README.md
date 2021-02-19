@@ -66,8 +66,8 @@ Following the guide will help you understand the basics of computer networks, ho
 ### Step 2:
 ![Capture](https://user-images.githubusercontent.com/75497349/108149656-4cfc0e00-710e-11eb-80f2-ad5286f6d25c.JPG)
 
-<br/>
-
 ### Chapter 3 Will be posted soon! (Version 0.2)
+
+<br/>
 
 ### [Go back to main page](https://github.com/FrancisIGP)
