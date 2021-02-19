@@ -52,7 +52,6 @@ This document offers you in-depth explanation and multiple strategies you can us
 Following the guide will help you understand the basics of computer networks, how local and global networks interact, and how to better things function in the internet. This guide will cover the fundamentals and concepts associated with Networking for your CCNA 201-301 certification exam. This book will help you get started with your CCNA and prepare you for the certification exam.  <br/>
 
 **Project status:** Work-in-Progress / BETA <br/>
-**Note:** Chapter 3 will be posted soon.
 
 ### Support me
   
@@ -68,5 +67,6 @@ Following the guide will help you understand the basics of computer networks, ho
 ![Capture](https://user-images.githubusercontent.com/75497349/108149656-4cfc0e00-710e-11eb-80f2-ad5286f6d25c.JPG)
 
 <br/>
+### Chapter 3 Will be posted soon! (Version 0.2)
 
 ### [Go back to main page](https://github.com/FrancisIGP)
