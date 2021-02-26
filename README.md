@@ -45,7 +45,7 @@ CHAPTER 2 (TCP/IP Model)	16
                Physical Layer Summary	37
           Chapter Summary	37
 ```   
-### NOTE: The following contents may not be updated.
+## NOTE: The following contents may not be updated.
 </details>
 
 This document offers you in-depth explanation and multiple strategies you can use to learn Computer Networking. Computer networking is a broad topic because it encompasses many areas. This can be overwhelming for new students, and hence this book is designed to help guide students through their learning journey. Our work will give you a thorough understanding of the latest in network technology and design. 
