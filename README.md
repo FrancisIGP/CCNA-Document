@@ -1,6 +1,6 @@
 ## Document Background
 
-### Version 0.1 (Updated, 02/17/2021) <br/>
+### Version 1.1 (Updated, 02/27/2021) <br/>
 
 ### Document Overview
 <details>
