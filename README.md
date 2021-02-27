@@ -48,9 +48,9 @@ CHAPTER 2 (TCP/IP Model)	16
 ## NOTE: The following contents may not be updated.
 </details>
 
-This document offers you in-depth explanation and multiple strategies you can use to learn Computer Networking. Computer networking is a broad topic because it encompasses many areas. This can be overwhelming for new students, and hence this book is designed to help guide students through their learning journey. Our work will give you a thorough understanding of the latest in network technology and design. 
+This guide gives you an in-depth overview and a variety of techniques you can use to learn computer networking. Computer networking is a wide-ranging concern since it covers a wide variety of fields. This can be daunting for new students, so this book is intended to help direct students on their learning journey. Our work will give you a comprehensive understanding of the latest advances in network technology and design. 
 
-Following the guide will help you understand the basics of computer networks, how local and global networks interact, and how to better things function in the internet. This guide will cover the fundamentals and concepts associated with Networking for your CCNA 201-301 certification exam. This book will help you get started with your CCNA and prepare you for the certification exam.  <br/>
+The guide will help you understand the fundamentals of computer networks, how local and global networks communicate, and how to make things function on the Internet. This guide will cover the basics and principles of networking for your CCNA 201-301 certification test. <br/>
 
 **Project status:** Work-in-Progress / BETA <br/>
 
