@@ -1,7 +1,7 @@
 ## Document Status
 
-### Version 1.1 (Updated, 02/27/2021) <br/>
-### Chapter 3 is still currently in-progress
+#### Version 1.1 (Updated, 02/27/2021) <br/>
+#### Chapter 3 is still currently in-progress
 
 ## Document Overview
 <details>
@@ -68,6 +68,7 @@ The guide will help you understand the fundamentals of computer networks, how lo
 2) Follow my Github page
 3) Provide feedbacks or concerns via (Issue request)
 
+<br/>
 ### [Download document here (Click me)](https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf) <br/>
 <br/>
 
