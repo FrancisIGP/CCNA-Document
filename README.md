@@ -67,12 +67,9 @@ The guide will help you understand the fundamentals of computer networks, how lo
 2) Follow my Github page
 3) Provide feedbacks or concerns via (Issue request)
 
-## How to Download the Document?
-
-### Step 1:
+### Download document here:
 ### [Download link (Click me)](https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf) <br/>
-### Step 2:
-![Capture](https://user-images.githubusercontent.com/75497349/108149656-4cfc0e00-710e-11eb-80f2-ad5286f6d25c.JPG)
+
 
 ### Chapter 3 is still currently in-progress 
 
