@@ -1,7 +1,7 @@
 ## Document Info.
 
 **Writer:** Francis G.C. **(Me)** <br/>
-**Version:** **V.1.1** (Updated, 03/2/2021) <br/>
+**Version:** **V.1.2** (Updated, 03/2/2021) <br/>
 **Project status:** Work-in-Progress (Chapter 3) / BETA <br/>
 
 ## Document Overview
