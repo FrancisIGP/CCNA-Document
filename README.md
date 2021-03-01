@@ -60,7 +60,7 @@ This guide gives you an in-depth overview and a variety of techniques you can us
 
 The guide will help you understand the fundamentals of computer networks, how local and global networks communicate, and how to make things function on the Internet. This guide will cover the basics and principles of networking for your CCNA 201-301 certification test. <br/>
 
-**Writer:** Francis G.C. (Me) <br/>
+**Writer:** Francis G.C. **(Me)** <br/>
 **Project status:** Work-in-Progress / BETA <br/>
 
 ### Support me
