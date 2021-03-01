@@ -52,7 +52,7 @@ CHAPTER 3 (Ethernet Introduction)	39
      Ethernet Introduction	41
           Types of Ethernet LANs	41
 ```   
-## NOTE: The following contents may not be updated.
+## NOTE: The following contents may not be updated. Chapter 3, small leak!
 </details>
 
 This guide gives you an in-depth overview and a variety of techniques you can use to learn computer networking. Computer networking is a wide-ranging concern since it covers a wide variety of fields. This can be daunting for new students, so this book is intended to help direct students on their learning journey. Our work will give you a comprehensive understanding of the latest advances in network technology and design. 
