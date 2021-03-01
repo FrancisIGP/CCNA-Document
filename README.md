@@ -70,4 +70,4 @@ The guide will help you understand the fundamentals of computer networks, how lo
 
 ### [Download document here (Click me)](https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf) <br/><br/><br/>
 
-### [Go back to main page](https://github.com/FrancisIGP)
+### > [Go back to main page](https://github.com/FrancisIGP)
