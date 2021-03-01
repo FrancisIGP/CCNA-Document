@@ -1,9 +1,9 @@
-## Document Background
+## Document Status
 
 ### Version 1.1 (Updated, 02/27/2021) <br/>
 ### Chapter 3 is still currently in-progress
 
-### Document Overview
+## Document Overview
 <details>
   <summary>Table of Contents (Incomplete)</summary>
   <br/>
