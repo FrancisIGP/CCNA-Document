@@ -3,7 +3,7 @@
 ![Blue Icon Quote General LinkedIn Banner](https://user-images.githubusercontent.com/75497349/109583152-60f63580-7b3a-11eb-999a-ae1c06c89b80.png)
 
 **Writer:** Francis G.C. (Me) <br/>
-**Version:** **V.1.2** (Updated, 03/2/2021) <br/>
+**Version:** **V.1.2** (Updated, 03/2/2021) <br/><br/>
 **Project status:** Work-in-Progress (Chapter 3) / BETA <br/>
 
 <details>
