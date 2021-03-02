@@ -17,7 +17,7 @@
 
 ## Document Overview
 <details>
-  <summary>Table of Contents (Incomplete)</summary>
+  <summary>Table of Contents (WIP)</summary>
   <br/>
   
 ```
