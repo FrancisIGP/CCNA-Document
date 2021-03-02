@@ -7,7 +7,7 @@
 **Project status:** Work-in-Progress (Chapter 3) / BETA <br/>
 
 <details>
-  <summary>Updates V.1.2</summary>
+  <summary>Check Updates</summary>
    <br/>
   
 - Small leak to Chapter 3.
