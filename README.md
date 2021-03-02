@@ -4,6 +4,12 @@
 **Version:** **V.1.2** (Updated, 03/2/2021) <br/>
 **Project status:** Work-in-Progress (Chapter 3) / BETA <br/>
 
+**Updates V.1.2:**
+- Small leak to Chapter 3.
+- Updated content outline.
+- Grammar checks.
+- New format of book introduction.
+
 ## Document Overview
 <details>
   <summary>Table of Contents (Incomplete)</summary>
