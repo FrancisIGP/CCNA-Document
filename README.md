@@ -7,7 +7,6 @@
 ### Updates V.1.2:
 - Small leak to Chapter 3.
 - Updated content outline.
-- Grammar checks.
 - New format of book introduction.
 
 ## Document Overview
