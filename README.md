@@ -1,10 +1,10 @@
 ## Document Info.
 
-**Writer:** Francis G.C. **(Me)** <br/>
+**Writer:** Francis G.C. (aka FrancisIGP) <br/>
 **Version:** **V.1.2** (Updated, 03/2/2021) <br/>
 **Project status:** Work-in-Progress (Chapter 3) / BETA <br/>
 
-**Updates V.1.2:**
+### Updates V.1.2:
 - Small leak to Chapter 3.
 - Updated content outline.
 - Grammar checks.
