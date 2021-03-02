@@ -1,6 +1,6 @@
 ## Document Info.
 
-![Blue Icon Quote General LinkedIn Banner](https://user-images.githubusercontent.com/75497349/109583008-27252f00-7b3a-11eb-81ba-b17a4eac62a5.png)
+![Blue Icon Quote General LinkedIn Banner](https://user-images.githubusercontent.com/75497349/109583152-60f63580-7b3a-11eb-999a-ae1c06c89b80.png)
 
 **Writer:** Francis G.C. (aka FrancisIGP) <br/>
 **Version:** **V.1.2** (Updated, 03/2/2021) <br/>
