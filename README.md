@@ -6,7 +6,6 @@
 
 <details>
   <summary>Updates V.1.2</summary>
-  <br/>
   
 - Small leak to Chapter 3.
 - Updated content outline.
