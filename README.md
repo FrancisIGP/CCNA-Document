@@ -79,5 +79,5 @@ The guide will help you understand the basics of computer networks, how local an
 3) Provide feedbacks or concerns via (Issue request)
 
 ## Embedded links
-### >> [Download document here (Click me)](https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf) <br/>
-### >> [Visit my Github profile](https://github.com/FrancisIGP)
+### > [Download document here (Click me)](https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf) <br/>
+### > [Visit my Github profile](https://github.com/FrancisIGP)
