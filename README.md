@@ -11,7 +11,8 @@
   <summary>Check Updates</summary>
    <br/>
   
-- Small leak to Chapter 3.
+- Small leak (Chapter 3)
+- Added new extra information for Chapter 3 (NEW!)
 - Updated content outline.
 - New format of book introduction.
 </details>
