@@ -17,7 +17,6 @@
 - New format of book introduction.
 </details>
 
-## Document Overview
 <details>
   <summary>Table of Contents (WIP)</summary>
   <br/>
