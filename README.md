@@ -76,7 +76,7 @@ This guide will help you understand the fundamentals of computer networks, how l
 
 ### Support me
   
-1) Leave a star to my project <3
+1) Leave a star on my project <3
 2) Follow my Github page
 3) Provide feedbacks or concerns via (Issue request)
 
