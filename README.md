@@ -1,6 +1,8 @@
-## Document Info.
+## Document Banner
 
 ![Blue Icon Quote General LinkedIn Banner](https://user-images.githubusercontent.com/75497349/109583152-60f63580-7b3a-11eb-999a-ae1c06c89b80.png)
+
+## Details
 **Project status:** Work-in-Progress (Chapter 3) / BETA <br/>
 
 **Writer:** Francis G.C. (Me) <br/>
