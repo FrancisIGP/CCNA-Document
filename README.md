@@ -4,7 +4,6 @@
 
 **Writer:** Francis G.C. (Me) <br/>
 **Version:** **V.1.3** (Updated, 03/12/2021) <br/>
-
 **Project status:** Work-in-Progress (Chapter 3) / BETA <br/>
 
 <details>
