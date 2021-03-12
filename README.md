@@ -72,9 +72,9 @@ CHAPTER 3 (Ethernet Introduction)	39
 
 ## Document Overview
 
-This guide offers you an in-depth overview and a variety of techniques that you can use to learn about computer networking. Computer networking is a wide-ranging subject, since it covers a wide range of fields. This can be daunting for new students, so this book is intended to help direct students through their learning path. Our work will give you an in-depth understanding of the latest developments in network technology and design.
+<div style="text-align: right"> This guide offers you an in-depth overview and a variety of techniques that you can use to learn about computer networking. Computer networking is a wide-ranging subject, since it covers a wide range of fields. This can be daunting for new students, so this book is intended to help direct students through their learning path. Our work will give you an in-depth understanding of the latest developments in network technology and design. </div>
 
-This guide will help you understand the fundamentals of computer networks, how local and global networks communicate, and how to make things work on the Internet. This guide covers the basics and principles of networking for your CCNA 201-301 certification test. <br/>
+<div style="text-align: right"> This guide will help you understand the fundamentals of computer networks, how local and global networks communicate, and how to make things work on the Internet. This guide covers the basics and principles of networking for your CCNA 201-301 certification test. </div><br/>
 
 ## Short disclaimer
 
