@@ -86,7 +86,7 @@ This guide will help you understand the fundamentals of computer networks, how l
 Any reference or information provided in this book are from prior knowledge and internet sources. I’ve learnt all the information I’ve written in this book off from Cisco Academy, thereby I’m not claiming that every information provided are solely provided based from my own thoughts. 
 
 All credits are given to Cisco, as all prior information were taken from there.
-</p><br/>
+</p>
 
 ### Support me
   
