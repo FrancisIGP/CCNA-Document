@@ -10,6 +10,7 @@
 <details>
   <summary>Check Updates</summary>
    <br/>
+  
 - Added new extra information for Chapter 3 (NEW!)
 - Updated content outline.
 - New format of book introduction.
