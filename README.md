@@ -24,46 +24,49 @@
 CHAPTER 1 (Network Foundation)	9
      Initial idea About Networks	9
      Fundamental Overview of Networks	9
-          Reliable Network	10
-     Types of Networks	12
-          3 Tier Architectural Model Overview	13
-          2 Tier Architectural Model Overview	14
-     Types of network topology	15
-CHAPTER 2 (TCP/IP Model)	19
-     TCP/IP Networking Model	19
-     TCP/IP Application Layer	20
-          HTTP Overview	21
-               Simple HTTP logic	21
-               Additional Information (HTTP)	22
-     TCP/IP Transport Layer	23
-          Transmission Control Protocol	23
-               TCP Flags	23
-               Connection-Oriented Communication	24
-               Three-Way Handshake	24
-               Flow Control	25
-               TCP Error Detection/Recovery	27
-               Same-layer and Adjacent-layer Interactions	28
-               TCP Header	28
-               4 Way Handshake	29
-          User Datagram Protocol	30
-     TCP/IP Network Layer	31
-          Characteristics of IP	32
-          IPv4 Overview	32
-               Limitations of IPv4	34
-          IPv6 Overview	34
-          Routing basic overview	36
-     Network Layer Summary	38
-     Data link layer	38
-          Transmission methods	40
-     Physical Layer Overview	40
-          Physical Layer Summary	41
-     Benefits of a network model	41
-     Chapter Summary	41
-CHAPTER 3 (Ethernet Introduction)	43
-     Ethernet Introduction	43
-          Types of Ethernet LANs	43
-               Copper Cabling	44
-               Types of Copper Cables	45
+          Intermediary devices	10
+          Reliable Network	11
+     Types of Networks	14
+          3 Tier Architectural Model Overview	15
+          2 Tier Architectural Model Overview	16
+     Types of network topology	16
+CHAPTER 2 (TCP/IP Model)	20
+     TCP/IP Networking Model	20
+     TCP/IP Application Layer	21
+          HTTP Overview	22
+               Simple HTTP logic	22
+               Additional Information (HTTP)	23
+     TCP/IP Transport Layer	24
+          Transmission Control Protocol	24
+               TCP Flags	24
+               Connection-Oriented Communication	25
+               Three-Way Handshake	25
+               Flow Control	26
+               TCP Error Detection/Recovery	28
+               Same-layer and Adjacent-layer Interactions	29
+               TCP Header	29
+               4 Way Handshake	30
+          User Datagram Protocol	31
+     TCP/IP Network Layer	32
+          Characteristics of IP	33
+          IPv4 Overview	33
+               Limitations of IPv4	35
+          IPv6 Overview	35
+          Routing basic overview	37
+     Network Layer Summary	39
+     Data link layer	39
+          Transmission methods	41
+     Physical Layer Overview	41
+          Physical Layer Summary	42
+     Benefits of a network model	42
+     Chapter Summary	42
+CHAPTER 3 (Ethernet Introduction)	44
+     Ethernet Introduction	44
+     Types of Ethernet LANs	44
+          Copper Cabling	45
+          Types of Copper Cables	46
+               Unshielded Twisted-Pair (UTP)	46
+               UTP Cabling Standards	47
 ```  
 ### NOTE: The following contents may not be updated. 
 </details>
