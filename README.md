@@ -64,8 +64,8 @@ CHAPTER 3 (Ethernet Introduction)	43
           Types of Ethernet LANs	43
                Copper Cabling	44
                Types of Copper Cables	45
-```   
-## NOTE: The following contents may not be updated. Chapter 3, small leak!
+```  
+### NOTE: The following contents may not be updated. 
 </details>
 
 ## Document Overview
