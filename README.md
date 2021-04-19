@@ -1,8 +1,5 @@
 ## Welcome to my CCNA document! 👋
 
-
-## Document Information
-
 ### **Writer:** Francis G.C. <br/>
 
 <details>
