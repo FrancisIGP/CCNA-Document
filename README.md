@@ -86,12 +86,6 @@ CHAPTER 3 (Ethernet Introduction)	44
 ### NOTE: The following contents may not be updated. 
 </details>
 
-### Support me
-  
-1) Leave a star on my project <3
-2) Follow my Github page
-3) Provide feedbacks or concerns via (Issue request)
-
 ---
 
 <h3 align="center"> Be sure to ⭐ my project so you can keep up to date on any daily progress! <h3/>   
