@@ -4,9 +4,6 @@
   
 <h3 align="center"> Connect With Me: <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> ~  Discord Servers: <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a> <h3/>
 
-<p align="justify">
-This guide offers you an in-depth overview and a variety of techniques that you can use to learn about computer networking. Computer networking is a wide-ranging subject, since it covers a wide range of fields. This can be daunting for new students, so this book is intended to help direct students through their learning path. Our work will give you an in-depth understanding of the latest developments in network technology and design.</p>
-
 ![Blue Icon Quote General LinkedIn Banner](https://user-images.githubusercontent.com/75497349/109583152-60f63580-7b3a-11eb-999a-ae1c06c89b80.png)
 
 # Hi, welcome to my CCNA Document <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
@@ -91,6 +88,9 @@ CHAPTER 3 (Ethernet Introduction)	44
 </details>
 
 ## Document Overview
+
+<p align="justify">
+This guide offers you an in-depth overview and a variety of techniques that you can use to learn about computer networking. Computer networking is a wide-ranging subject, since it covers a wide range of fields. This can be daunting for new students, so this book is intended to help direct students through their learning path. Our work will give you an in-depth understanding of the latest developments in network technology and design.</p>
 
 <p align="justify">
 This guide will help you understand the fundamentals of computer networks, how local and global networks communicate, and how to make things work on the Internet. This guide covers the basics and principles of networking for your CCNA 201-301 certification test.
