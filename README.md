@@ -1,10 +1,8 @@
-<h1 align="center">CCNA Document Guide
+<h1 align="center">CCNA Document Guide <h1/>
   
 <h3 align="center"> Be sure to ⭐ my project so you can keep up to date on any daily progress! <h3/>   
   
 <h3 align="center"> Connect With Me: <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> ~  Discord Servers: <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a> <h3/>
-
-<h1/>
 
 </div>
 <p><font size="3">
