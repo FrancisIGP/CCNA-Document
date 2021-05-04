@@ -29,7 +29,7 @@ This guide offers you an in-depth overview and a variety of techniques that you 
     <td align="center">Document Overview<td/>
   <tr/>
     <tr>
-    <td 
+    <td>
     <p align="justify">
     This guide offers you an in-depth overview and a variety of techniques that you can use to learn about computer networking. Computer networking is a wide-ranging subject,       since it covers a wide range of fields. This can be daunting for new students, so this book is intended to help direct students through their learning path. Our work will       give you an in-depth understanding of the latest developments in network technology and design.</p>    
     <td/>
