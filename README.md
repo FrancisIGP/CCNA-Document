@@ -96,8 +96,7 @@ CHAPTER 3 (Ethernet Introduction)	44
 
 <h3 align="center"> Be sure to ⭐ my project so you can keep up to date on any daily progress! <h3/>   
   
-<h3 align="center">| <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> | <a href="https://github.com/FrancisIGP/">Github</a> <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a> |<h3/>
+<h3 align="center">| <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> | <a href="https://github.com/FrancisIGP/">Github</a> | <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a> |<h3/>
 
 <h3 align="center">|<a href="https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf"> Download </a> Link for the Document | <h3/>
 
-### > [Visit my Github profile](https://github.com/FrancisIGP)
