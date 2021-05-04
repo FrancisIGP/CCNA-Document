@@ -1,5 +1,3 @@
-<a align="center"> ![imageedit_2_4570507021](https://user-images.githubusercontent.com/75497349/116986810-d5974d00-ad00-11eb-9e7a-854c81301e89.png) <a/>
-
 <h2 align="center">CCNA Document Guide<h2/>
 
 ![Blue Icon Quote General LinkedIn Banner](https://user-images.githubusercontent.com/75497349/109583152-60f63580-7b3a-11eb-999a-ae1c06c89b80.png)
