@@ -18,6 +18,38 @@
   <summary>Table of Contents (WIP)</summary>
   <br/>
   
+<table>
+  <tr>
+    <th>Writer</th>        
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Status</th>
+    <th>Last Updated</th>
+  </tr>
+  <tr>
+    <td>#1</td>
+    <td><a href="https://github.com/FrancisIGP/CCNA-Document">CCNA Document</a></td>
+    <td>CCNA Document I wrote (Resource)</td>
+    <td>Work in Progress</td>
+    <td>April 4, 2021</td>
+  </tr>
+   <tr>
+    <td>#2</td>
+    <td><a href="https://github.com/FrancisIGP/CCNA-commands-guide">CCNA Commands guide</a></td>
+    <td>CCNA commands cheet sheet</td>
+    <td>Finished</td>
+    <td>March 23, 2021</td>
+  </tr>
+  <tr>
+    <td>#3</td>
+    <td><a href="https://github.com/FrancisIGP/Miscellaneous">Miscellaneous Files</a></td>
+    <td>Miscellaneous repo. where extra files are stored</td>
+    <td>Appending</td>
+    <td>March 15, 2021</td>
+  </tr>
+ </table>
+ 
+  
 ```
 CHAPTER 1 (Network Foundation)	9
      Initial idea About Networks	9
