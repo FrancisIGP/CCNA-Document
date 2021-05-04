@@ -1,9 +1,23 @@
 ## Welcome to my CCNA document! 👋
 
 ![Blue Icon Quote General LinkedIn Banner](https://user-images.githubusercontent.com/75497349/109583152-60f63580-7b3a-11eb-999a-ae1c06c89b80.png)
-**Project status:** Work-in-Progress (Chapter 3) / BETA <br/>
 
-### **Writer:** Francis G.C. <br/>
+<table>
+  <tr>
+    <th>Writer</th>        
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Status</th>
+    <th>Last Updated</th>
+  </tr>
+  <tr>
+    <td>Francis G.C. (aka FrancisIGP)</td>
+    <td>CCNA Document</td>
+    <td>An open source document covering the basics of Networking.</td>
+    <td>Work in Progress</td>
+    <td>April 4, 2021</td>
+  </tr>
+ </table>
 
 <details>
   <summary>Check Updates</summary>
@@ -17,38 +31,6 @@
 <details>
   <summary>Table of Contents (WIP)</summary>
   <br/>
-  
-<table>
-  <tr>
-    <th>Writer</th>        
-    <th>Project Name</th>
-    <th>Description</th>
-    <th>Status</th>
-    <th>Last Updated</th>
-  </tr>
-  <tr>
-    <td>#1</td>
-    <td><a href="https://github.com/FrancisIGP/CCNA-Document">CCNA Document</a></td>
-    <td>CCNA Document I wrote (Resource)</td>
-    <td>Work in Progress</td>
-    <td>April 4, 2021</td>
-  </tr>
-   <tr>
-    <td>#2</td>
-    <td><a href="https://github.com/FrancisIGP/CCNA-commands-guide">CCNA Commands guide</a></td>
-    <td>CCNA commands cheet sheet</td>
-    <td>Finished</td>
-    <td>March 23, 2021</td>
-  </tr>
-  <tr>
-    <td>#3</td>
-    <td><a href="https://github.com/FrancisIGP/Miscellaneous">Miscellaneous Files</a></td>
-    <td>Miscellaneous repo. where extra files are stored</td>
-    <td>Appending</td>
-    <td>March 15, 2021</td>
-  </tr>
- </table>
- 
   
 ```
 CHAPTER 1 (Network Foundation)	9
