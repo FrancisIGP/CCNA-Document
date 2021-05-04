@@ -1,4 +1,4 @@
-![Blue Icon Quote General LinkedIn Banner](https://user-images.githubusercontent.com/75497349/109583152-60f63580-7b3a-11eb-999a-ae1c06c89b80.png)
+![1](https://user-images.githubusercontent.com/75497349/116992948-6114dc00-ad09-11eb-9583-55ec784b8c99.JPG)
 
 # Hi, welcome to my CCNA Document <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
