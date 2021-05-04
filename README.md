@@ -33,9 +33,9 @@ This guide offers you an in-depth overview and a variety of techniques that you 
  ### Latest Updates 💡
  
 ```
-=> Added new extra information for Chapter 3 (NEW!)
-=> Updated content outline.
-=> New format of book introduction.
+- Added new extra information for Chapter 3 (NEW!)
+- Updated content outline.
+- New format of book introduction.
 ```
 <details>
   <summary>Table of Contents (WIP)</summary>
