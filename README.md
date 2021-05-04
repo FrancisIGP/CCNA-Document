@@ -10,6 +10,11 @@
 
 # Hi, welcome to my CCNA Document <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
+### Document Overview
+
+<p align="justify">
+This guide offers you an in-depth overview and a variety of techniques that you can use to learn about computer networking. Computer networking is a wide-ranging subject, since it covers a wide range of fields. This can be daunting for new students, so this book is intended to help direct students through their learning path. Our work will give you an in-depth understanding of the latest developments in network technology and design.</p>
+
 <table>
   <tr>
     <th>Writer</th>        
@@ -88,11 +93,6 @@ CHAPTER 3 (Ethernet Introduction)	44
 ```  
 ### NOTE: The following contents may not be updated. 
 </details>
-
-## Document Overview
-
-<p align="justify">
-This guide offers you an in-depth overview and a variety of techniques that you can use to learn about computer networking. Computer networking is a wide-ranging subject, since it covers a wide range of fields. This can be daunting for new students, so this book is intended to help direct students through their learning path. Our work will give you an in-depth understanding of the latest developments in network technology and design.</p>
 
 ### Support me
   
