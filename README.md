@@ -32,7 +32,7 @@ This guide offers you an in-depth overview and a variety of techniques that you 
 - New format of book introduction.
 ```
 <details>
-  <summary>Table of Contents (WIP)</summary>
+  <summary>Table of Contents</summary>
   <br/>
   
 ```
