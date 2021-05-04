@@ -1,9 +1,3 @@
-<h1 align="center">CCNA Document Guide 
-  
-<h3 align="center"> Be sure to ⭐ my project so you can keep up to date on any daily progress! <h3/>   
-  
-<h3 align="center"> Connect With Me: <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> ~  Discord Servers: <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a> <h3/> <h1/>
-
 ![Blue Icon Quote General LinkedIn Banner](https://user-images.githubusercontent.com/75497349/109583152-60f63580-7b3a-11eb-999a-ae1c06c89b80.png)
 
 # Hi, welcome to my CCNA Document <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
@@ -98,6 +92,12 @@ CHAPTER 3 (Ethernet Introduction)	44
 2) Follow my Github page
 3) Provide feedbacks or concerns via (Issue request)
 
-## Embedded links
-### > [Download document here (Click me)](https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf) <br/>
+---
+
+<h3 align="center"> Be sure to ⭐ my project so you can keep up to date on any daily progress! <h3/>   
+  
+<h3 align="center"> Connect With Me: <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> ~  Discord Servers: <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a> <h3/> <h1/>
+
+<h3 align="center"> Connect With Me: <a href="(https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf)">| Download </a> Link for the Document |
+
 ### > [Visit my Github profile](https://github.com/FrancisIGP)
