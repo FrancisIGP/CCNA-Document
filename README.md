@@ -11,7 +11,7 @@
     <th>Last Updated</th>
   </tr>
   <tr>
-    <td>Francis G.C. (aka FrancisIGP)</td>
+    <td>FrancisIGP</td>
     <td>CCNA Document</td>
     <td>An open source document covering the basics of Networking.</td>
     <td>Work in Progress</td>
