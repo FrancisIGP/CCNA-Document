@@ -18,16 +18,14 @@
     <td>April 4, 2021</td>
   </tr>
  </table>
-
-<details>
-  <summary>Check Updates</summary>
-   <br/>
-  
-- Added new extra information for Chapter 3 (NEW!)
-- Updated content outline.
-- New format of book introduction.
-</details>
-
+ 
+ ### Latest Updates 💡
+ 
+```
+=> Added new extra information for Chapter 3 (NEW!)
+=> Updated content outline.
+=> New format of book introduction.
+```
 <details>
   <summary>Table of Contents (WIP)</summary>
   <br/>
