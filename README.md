@@ -13,7 +13,7 @@ This guide offers you a high level overview and a variety of techniques that you
 <h3 align="center">>> Latest Updates <<</h3>
  
 <h4 align="center">
-Added new extra information for Chapter 3 (NEW!) </br>
+Added new extra information for Chapter 3 </br>
 Updated content outline. </br>
 New format of book introduction. </br>
 </h4>
