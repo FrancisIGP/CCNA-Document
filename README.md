@@ -2,15 +2,15 @@
 
 <p align="center"><b>Writer:<b/> FrancisIGP</p>
 
-<h1 align="center"> Hi, welcome to my CCNA Document<img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /> </h1>
+<h1 align="center">Hi, welcome to my CCNA Document<img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /> </h1>
 
-<h3 align="center"> Document Overview </h3>
+<h3 align="center">Document Overview</h3>
 
 <p align="center">
 This guide offers you a high level overview and a variety of techniques that you can use to learn about computer networking. Computer networking is a wide-ranging subject, since it covers a wide range of fields. This can be daunting for new learners, so this book is intended to help direct learners through their learning path. I hope my work will provide you an in-depth understanding of the latest developments in network technology and design.</p>
 
 
-<h3 align="center"> Latest Updates </h3>
+<h3 align="center">Latest Updates</h3>
  
 ```
 - Added new extra information for Chapter 3 (NEW!) 
@@ -76,8 +76,8 @@ UTP Cabling Standards	47
 
 ---
 
-<h3 align="center"> Be sure to ⭐ my project so you can keep up to date on any daily progress! <h3/>   
+<h3 align="center">Be sure to ⭐ my project so you can keep up to date on any daily progress!<h3/>   
   
 <h4 align="center">| <a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> | <a href="https://github.com/FrancisIGP/">Github</a> | <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a> |</h4>
 
-<h4 align="center">|<a href="https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf"> Download </a> Link for the Document | </h4>
+<h4 align="center">|<a href="https://github.com/FrancisIGP/CCNA-Document/blob/main/1CCNA-Document(Draft)%20-%20Draft.pdf"> Download </a> Link for the Document |</h4>
