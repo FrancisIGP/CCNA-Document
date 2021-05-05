@@ -6,8 +6,8 @@
 
 <h3 align="center">Document Overview</h3>
 
-<p align="center"><span class='notbold'>
-This guide offers you a high level overview and a variety of techniques that you can use to learn about computer networking. Computer networking is a wide-ranging subject, since it covers a wide range of fields. This can be daunting for new learners, so this book is intended to help direct learners through their learning path. I hope my work will provide you an in-depth understanding of the latest developments in network technology and design.</span></p>
+<p align="center">
+This guide offers you a high level overview and a variety of techniques that you can use to learn about computer networking. Computer networking is a wide-ranging subject, since it covers a wide range of fields. This can be daunting for new learners, so this book is intended to help direct learners through their learning path. I hope my work will provide you an in-depth understanding of the latest developments in network technology and design.</p>
 
 
 <h3 align="center">>> Latest Updates <<</h3>
