@@ -11,12 +11,16 @@ This guide offers you a high level overview and a variety of techniques that you
 
 
 <h3 align="center"> Latest Updates 💡 </h3>
+
+<center>
  
 ```
 - Added new extra information for Chapter 3 (NEW!)
 - Updated content outline.
 - New format of book introduction.
 ```
+ 
+</center>
 
 <details>
   <summary>Table of Contents</summary>
