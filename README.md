@@ -1,28 +1,13 @@
 ![1](https://user-images.githubusercontent.com/75497349/116992948-6114dc00-ad09-11eb-9583-55ec784b8c99.JPG)
 
+<p align="center"><b>Writer:<b/> FrancisIGP<p/>
+
 # Hi, welcome to my CCNA Document <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
 ### Document Overview 
 
 <p align="justify">
 This guide offers you a high level overview and a variety of techniques that you can use to learn about computer networking. Computer networking is a wide-ranging subject, since it covers a wide range of fields. This can be daunting for new learners, so this book is intended to help direct learners through their learning path. I hope my work will provide you an in-depth understanding of the latest developments in network technology and design.</p>
-
-<table>
-  <tr>
-    <th>Writer</th>        
-    <th>Project Name</th>
-    <th>Description</th>
-    <th>Status</th>
-    <th>Last Updated</th>
-  </tr>
-  <tr>
-    <td>FrancisIGP</td>
-    <td>CCNA Document</td>
-    <td>An open source document covering the basics of Networking.</td>
-    <td>Work in Progress</td>
-    <td>April 4, 2021</td>
-  </tr>
- </table>
 
  ### Latest Updates 💡
  
