@@ -9,13 +9,6 @@
 <p align="justify">
 This guide offers you a high level overview and a variety of techniques that you can use to learn about computer networking. Computer networking is a wide-ranging subject, since it covers a wide range of fields. This can be daunting for new learners, so this book is intended to help direct learners through their learning path. I hope my work will provide you an in-depth understanding of the latest developments in network technology and design.</p>
 
- ### Latest Updates 💡
- 
-```
-- Added new extra information for Chapter 3 (NEW!)
-- Updated content outline.
-- New format of book introduction.
-```
 <details>
   <summary>Table of Contents</summary>
   <br/>
@@ -71,6 +64,13 @@ CHAPTER 3 (Ethernet Introduction)	44
 ### NOTE: The following contents may not be updated. 
 </details>
 
+ ### Latest Updates 💡
+ 
+```
+- Added new extra information for Chapter 3 (NEW!)
+- Updated content outline.
+- New format of book introduction.
+```
 ---
 
 <h3 align="center"> Be sure to ⭐ my project so you can keep up to date on any daily progress! <h3/>   
