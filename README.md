@@ -9,9 +9,11 @@
 
 <h3 align="center">>> Latest Updates <<</h3>
  
-<h4 align="center">Added new extra information for Chapter 3</br>
+<h4 align="center">
+Added new extra information for Chapter 3</br>
 Updated content outline</br>
-New format of book introduction</br></h4>
+New format of book introduction</br>
+</h4>
 
 <details align="center">
   <summary>Table of Contents</summary>
