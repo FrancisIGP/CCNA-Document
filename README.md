@@ -1,4 +1,4 @@
-![2](https://user-images.githubusercontent.com/75497349/117136465-fc29b680-adda-11eb-9ee5-e4e241bdf9ed.JPG)
+
 
 <h1 align="center">Hi, welcome to my CCNA Document <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /></h1>
 
