@@ -50,7 +50,6 @@ Your feedback is invaluable in making this guide even better! Here’s how you c
 - **Suggest Improvements:** Got ideas for clearer explanations, new chapters, or extra examples? Share them through issues or pull requests.  
 - **Contribute Content:** Want to add or refine topics? Fork the repo, make your changes, and submit a pull request. We warmly welcome all contributions!  
 - **Star & Share:** If this guide helped you, please ⭐ star the repo. It motivates the author and helps others discover the resource.  
-- **Spread the Word:** Share this guide with your classmates, friends, or communities. Learning together makes mastering networking easier!
 
 Together, we can build a comprehensive and reliable resource for all CCNA learners.
 
