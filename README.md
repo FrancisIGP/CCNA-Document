@@ -6,13 +6,6 @@ Welcome to your all-in-one **CCNA preparation companion**. This guide is designe
 
 With a chapter-based format, regular updates, and deep dives into protocols like TCP/IP and HTTP, this guide is crafted to support self-learners, students, and aspiring network engineers.
 
-### ✨ Key Features
-
-- ✅ **Beginner-Friendly** explanations and diagrams  
-- 📚 **Organized** by chapters and subtopics for easy navigation  
-- 💡 Perfect for **self-study, revision**, and bootcamp preparation  
-- 🎯 **Goal** is to master networking essentials and confidently pursue CCNA certification.
-
 ### 📥 Download PDF
 
 <table>
